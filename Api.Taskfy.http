@@ -1,0 +1,6 @@
+@Api.Taskfy_HostAddress = http://localhost:5004
+
+GET {{Api.Taskfy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
